@@ -2,7 +2,7 @@
 # Find the sum of the given numbers.
 def get_sum(a, b):
     # To be implemented
-    return 0
+    return 1
 
 # ====================================================
 
